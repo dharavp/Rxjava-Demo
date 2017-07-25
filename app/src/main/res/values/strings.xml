@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="username">UserName</string>
+    <string name="firstname">Enter FirstName</string>
+    <string name="secondname">SecondName</string>
+    <string name="search">Search</string>
+</resources>
